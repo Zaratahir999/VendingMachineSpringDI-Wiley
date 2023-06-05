@@ -1,0 +1,7 @@
+Cookies,0.74,2
+Water Bottle,1.00,6
+Soda,2.50,7
+Cake,2.45,7
+Crisps,1.23,6
+Chocolate,0.99,5
+Candy,1.02,5
